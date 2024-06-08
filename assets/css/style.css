@@ -11844,5 +11844,12 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+body {
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+img {
+  width: 10%;
+}
 
 /*# sourceMappingURL=style.css.map */
